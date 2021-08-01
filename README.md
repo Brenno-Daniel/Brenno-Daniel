@@ -2,9 +2,9 @@
 - 👀 I’m interested in Front-end and UX/UI development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript and automatized tests
 ##
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenno-Daniel&langs_count=8&layout=compact&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brenno-Daniel&show_icons=true&theme=tokyonight&hide=stars,issues,contribs" />
-  </a>
-</div>  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenno-Daniel&langs_count=8&layout=compact&theme=tokyonight" />
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=Brenno-Daniel&show_icons=true&theme=tokyonight&hide=stars,issues,contribs" />
+</a>
+  
