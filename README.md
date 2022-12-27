@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @Brenno-Daniel
 - 👀 I’m interested in Front-end and UX/UI development
-- 🌱 I’m currently learning JavaScript | TypeScript | Vue.js | Nuxt.js | TDD and automatized tests with Jest
+- 🌱 I’m currently learning JavaScript | TypeScript | Vue.js | Nuxt.js | TDD and automatized tests with Jest and Cypress
 ##
 
 <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
