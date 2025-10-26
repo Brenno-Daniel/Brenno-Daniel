@@ -2,7 +2,7 @@
 - 👀 I’m a **Passionate Front-End Developer** with **5 years of experience** in the market, specializing in building robust, interactive, and responsive user interfaces. I am deeply interested in **Front-end engineering, clean code, TDD (Test-Driven Development)**, and improving **UX/UI development**.
 - 💡 **Proficient Tech Stack:** Vue.js, Nuxt.js, Typescript, Jest, Vitest, Bootstrap, and TailwindCSS.
 - 🔄 **Working Knowledge:** Intermediate experience with React and Next.js, and familiarity with Angular and RESTful integrations.
-- 🌱 **Committed to Growth:** I prioritize continuous learning, currently focusing on deepening my knowledge in **React, Redux, and advanced Typescript**, alongside my strong existing background in **TDD and unit testing (Jest/Vitest)**.
+- 🌱 **Committed to Growth:** I prioritize continuous learning, currently focusing on deepening my knowledge in **Vue/Nuxt, React/Next, and advanced Typescript**, alongside my strong existing background in **TDD and unit testing (Jest/Vitest)**.
 - 💼 **Professional Experience Highlights:** Collaboration on large-scale migrations (e.g., to Nuxt 4), implementation of robust unit testing, and refactoring legacy systems to modern Typescript architectures.
 ##
 
